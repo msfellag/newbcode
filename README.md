@@ -34,7 +34,7 @@ C programming roadmap/pathway
 - [ ] A video edited version of the [ops-class.org video lectures](https://ops-class.org)
 
 DSA: Algorithms & Data Structure
-- [ ] Robert Sedgewick Algo 1 & 2 from back when Coursera was not awful (Youtube link)[https://www.youtube.com/watch?v=9diDWV-fOnE]
+- [ ] Robert Sedgewick Algo 1 & 2 from back when Coursera was not awful [Youtube link](https://www.youtube.com/watch?v=9diDWV-fOnE)
 
 Building a toy GPT mostly a playlist of Andrej Karpathy and ML from Andrew Ng' youtube videos at this point ? 
 + non-technical intro by Cassie Kozyrkov
@@ -49,6 +49,10 @@ Computerphile (current + historical stuff, when a byte came to be 8bit etc...)
 Buffer0verflow channel
 crow : https://www.youtube.com/@crr0ww
 samsclass : https://samsclass.info/ (basic security stuff with the most ASMRish voice in the world)
+
+Test embedding a youtube player ?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9diDWV-fOnE?si=SInD7VT6PVC01nSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Maths: 
 3blue1brown , 
 College Algebra with Professor Richard Delaware - UMKC : https://www.youtube.com/playlist?list=PLDRW3qipv0D7bqJVRtPUmUm_dh9LWioE9
